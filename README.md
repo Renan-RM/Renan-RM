@@ -1,16 +1,13 @@
-## Hi there 👋
+## Oie Me Chamo Renan :)
 
-<!--
-**Renan-RM/Renan-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Analista De Sistemas, Mas Atualmente Trabalho Como Analista De Suporte II
 
-Here are some ideas to get you started:
+. 💻 Sou Formado Em **Tecnologia do Desenvolvimento de Sistema**
+                                                                                                       **Sobre as Minhas Experiências**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sobre as Minhas Experiências, Tenho Facilidade De Para Mexer Com Aparelhos Eletrônicos Voltados a Área Da Informática, Tenho Experiencia Em Montagem e Desmontagem De Computadores Para Limpeza Preventiva e Troca De Componentes Também, Tenho Vários Cursos Na Área De Informática Sempre Para Me Desenvolver Mais a Cada Dia Que Passa.
+
+Essas São As Minha Formações:
+
+Curso de Operador de Computador (Instalação e configuração; Operador de Sistemas Operacionais; Instalação e de aplicativos e Operador de Computador, Curso de Qualificação Profissional PEQ, Assistente Administrativo, Curso de Formatação de Computadores e Notebooks, ITIL: VISÃO GERAL DO FRAMEWORK ITIL, TREINAMENTO DE OKR, Produtividade gera resultados, O poder do Mindset, XP, Líder Empreendedor, INTRODUÇÃO AO SCRUM, Power BI, CONCEITOS OFFICE 365, Redes Computacionales para Todos, Curso Linux, Curso SO Windows, Redes de Computadores, Fundamentos de TI Hardware e Software, ITIL 4 Foundation, Curso de Tecnologia do Desenvolvimento de Sistema no Centro Universitário Católico Salesiano Auxilium de Araçatuba/SP.
+
