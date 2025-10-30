@@ -3,9 +3,10 @@
 Sou Analista De Sistemas, Mas Atualmente Trabalho Como Analista De Suporte II
 
 . 💻 Sou Formado Em **Tecnologia do Desenvolvimento de Sistema**
-                                                                                                       **Sobre as Minhas Experiências**
 
-Sobre as Minhas Experiências, Tenho Facilidade De Para Mexer Com Aparelhos Eletrônicos Voltados a Área Da Informática, Tenho Experiencia Em Montagem e Desmontagem De Computadores Para Limpeza Preventiva e Troca De Componentes Também, Tenho Vários Cursos Na Área De Informática Sempre Para Me Desenvolver Mais a Cada Dia Que Passa.
+                                                       Sobre as Minhas Experiências
+
+Tenho Facilidade De Para Mexer Com Aparelhos Eletrônicos Voltados a Área Da Informática, Tenho Experiencia Em Montagem e Desmontagem De Computadores Para Limpeza Preventiva e Troca De Componentes Também, Tenho Vários Cursos Na Área De Informática Sempre Para Me Desenvolver Mais a Cada Dia Que Passa.
 
 Essas São As Minha Formações:
 
